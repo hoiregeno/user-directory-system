@@ -1,0 +1,10 @@
+# Secrets and config
+.env
+config.local.php
+
+# Dependencies
+/vendor/
+
+# System files
+.DS_Store
+Thumbs.db
